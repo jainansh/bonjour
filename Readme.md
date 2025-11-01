@@ -38,3 +38,4 @@ Execute bonjour locally with Docker
 Test commit from OpenShift pipeline
 Hello from OpenShift Pipeline - Sat Nov  1 16:05:03 UTC 2025
 Test webhook run from OpenShift pipeline
+Test webhook run from OpenShift pipeline
